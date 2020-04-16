@@ -1,11 +1,12 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-title: ''
-labels: ''
+title: "[BUG] Please describe here"
+labels: kind/bug
 assignees: ultraschuppi
 
 ---
+
 <!-- Please use this template while reporting a bug and provide as much info as possible. Not doing so may result in your bug not being addressed in a timely manner. Thanks!
 
 If the matter is security related, please disclose it privately to cloud-security@camunda.com and do not report it here.
