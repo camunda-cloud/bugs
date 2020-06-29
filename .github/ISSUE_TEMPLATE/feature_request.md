@@ -3,7 +3,7 @@ name: Feature request
 about: Suggest an idea for this project
 title: "[Feature] Please describe here"
 labels: kind/feature
-assignees: meyerdan
+assignees: meyerdan, skalpins
 
 ---
 
